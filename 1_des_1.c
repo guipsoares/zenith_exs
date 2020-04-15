@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <math.h>
 // usarei n=5 para demonstrar, podendo ser
 // realizado com qualquer N
 #define N 5
