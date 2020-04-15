@@ -1,0 +1,1 @@
+As macros de proteção de uma biblioteca são, como todas as outras macros, pré-processadas. Utilizadas para não definir duas vezes a biblioteca quando esta for inserida no código, além da possibilidade de utilizá-las para que o código seja multiplataforma.
